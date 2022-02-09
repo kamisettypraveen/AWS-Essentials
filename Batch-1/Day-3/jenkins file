@@ -1,0 +1,9 @@
+pipeline [
+stages (git clone)
+{
+sh   keoek  "
+
+}
+staes( buid)
+
+;
